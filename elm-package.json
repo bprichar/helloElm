@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "A first elm app",
-    "repository": "https://github.com/bprichar/helloElm.git",
+    "repository": "https://github.com/bprichar/helloelm.git",
     "license": "BSD3",
     "source-directories": [
         "."
